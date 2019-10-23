@@ -1,5 +1,5 @@
 # Krungsri test
-## Spring Boot Application Provide User Service API and Securing with JSON Web Token (JWT) With grant type Password
+## Spring Boot Application Provide User Service API and Securing with JSON Web Token (JWT) and Oauth2 + Grant Type Password
 
 ## Main building blocks
  * Spring Boot 1.5.3.RELEASE  
